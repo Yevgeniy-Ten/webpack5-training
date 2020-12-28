@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07d1860d-f7d9-490d-b5ab-403efedb3a93" name="Default Changelist" comment="" />
+    <list default="true" id="07d1860d-f7d9-490d-b5ab-403efedb3a93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -72,7 +76,7 @@
       <updated>1608438668609</updated>
       <workItem from="1608438671964" duration="9636000" />
       <workItem from="1608473063177" duration="5269000" />
-      <workItem from="1609137659508" duration="835000" />
+      <workItem from="1609137659508" duration="983000" />
     </task>
     <servers />
   </component>
